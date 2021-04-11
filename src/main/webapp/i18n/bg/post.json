@@ -1,0 +1,28 @@
+{
+  "coopCycleApp": {
+    "post": {
+      "home": {
+        "title": "Posts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Post",
+        "createOrEditLabel": "Създайте или редактирайте Post",
+        "notFound": "Posts не са намерени"
+      },
+      "created": "Създаден е нов Post с идентификатор {{ param }}",
+      "updated": "Post с идентификатор {{ param }} e oбновен",
+      "deleted": "Post с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Post {{ id }}?"
+      },
+      "detail": {
+        "title": "Post"
+      },
+      "id": "ID",
+      "title": "Title",
+      "content": "Content",
+      "date": "Date",
+      "blog": "Blog",
+      "tag": "Tag"
+    }
+  }
+}
